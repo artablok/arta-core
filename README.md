@@ -15,14 +15,17 @@ Arta Blockchain infrastructure includes:
 
 ## Repository Structure
 
-docs/  
-Architecture and network documentation
+- [`docs/architecture.md`](./docs/architecture.md) — architecture overview
+- [`docs/roadmap/roadmap.md`](./docs/roadmap/roadmap.md) — development roadmap and milestones
+- [`specs/network.md`](./specs/network.md) — network specifications
 
-specs/  
-Technical specifications and infrastructure modules
+## Related Repositories
 
-roadmap/  
-Development roadmap and ecosystem milestones
+- [arta-node](https://github.com/artablok/arta-node) — node implementation
+- [arta-sdk](https://github.com/artablok/arta-sdk) — client SDK
+- [arta-contracts](https://github.com/artablok/arta-contracts) — smart contracts
+- [arta-docs](https://github.com/artablok/arta-docs) — developer documentation
+- [arta-improvement-proposals](https://github.com/artablok/arta-improvement-proposals) — governance proposals
 
 ## Ecosystem Tokens
 
